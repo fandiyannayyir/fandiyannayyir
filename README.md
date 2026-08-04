@@ -9,7 +9,7 @@ I strive for clarity, discipline, and sincerity — in code and in life.
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;"> <img src="https://skillicons.dev/icons?i=docker" height="48"/> <img src="https://skillicons.dev/icons?i=linux" height="48"/> <img src="https://skillicons.dev/icons?i=html" height="48"/> <img src="https://skillicons.dev/icons?i=css" height="48"/> <img src="https://skillicons.dev/icons?i=js" height="48"/> <img src="https://skillicons.dev/icons?i=ts" height="48"/> <img src="https://skillicons.dev/icons?i=go" height="48"/> <img src="https://skillicons.dev/icons?i=c" height="48"/> <img src="https://skillicons.dev/icons?i=svelte" height="48"/> <img src="https://skillicons.dev/icons?i=sveltekit" height="48"/> <img src="https://skillicons.dev/icons?i=react" height="48"/> <img src="https://skillicons.dev/icons?i=nextjs" height="48"/> <img src="https://skillicons.dev/icons?i=vue" height="48"/> <img src="https://skillicons.dev/icons?i=nuxtjs" height="48"/> </p>
 
 🐍 Contribution Snake
-<a href="https://github.com/fandipras7"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </a>
+<a href="https://github.com/fandiyannayyir"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </a>
 📫 Contact
 
 If you'd like to collaborate, discuss tech, or share knowledge, feel free to reach out:
