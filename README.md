@@ -27,7 +27,6 @@ Outside of programming, I'm also a **ṭālib al-'ilm**, striving to seek benefi
 - 🚀 Building **Jajanin**, a creator donation platform
 - 🏗️ Designing scalable software architecture
 - ☁️ Learning **Kubernetes** & Cloud Native
-- 🐘 Deepening expertise in **PostgreSQL**
 - 🤖 Exploring **AI Engineering**
 - 📚 Seeking beneficial knowledge every day
 
