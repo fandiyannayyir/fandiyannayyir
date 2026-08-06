@@ -16,7 +16,7 @@
 
 I'm a Software Developer passionate about building digital products that are scalable, maintainable, and meaningful.
 
-My work spans the entire product development lifecycle—from understanding business problems and designing software architecture to implementing frontend, backend, and infrastructure. I enjoy transforming ideas into reliable products while continuously improving engineering quality and development practices.
+My work spans the entire product development lifecycle from understanding business problems and designing software architecture to implementing frontend, backend, and infrastructure. I enjoy transforming ideas into reliable products while continuously improving engineering quality and development practices.
 
 Outside of programming, I'm also a **ṭālib al-'ilm**, striving to seek beneficial Islamic knowledge upon the manhaj of the salaf.
 
