@@ -74,7 +74,7 @@ Outside of programming, I'm also a **ṭālib al-'ilm**, striving to seek benefi
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.jajanin.id/">
+  <a href="https://my-profile-six-plum.vercel.app/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
